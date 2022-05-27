@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KT_ScreenshotDetection</string>
+    <string name="read_external_storage_permission_denied_message">Read external storage permission has denied</string>
 </resources>
